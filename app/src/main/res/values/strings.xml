@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ManageAllActivity</string>
+    <string name="main">主界面</string>
+    <string name="first">一界面</string>
+    <string name="finish_all">结束所有Activity</string>
+</resources>
